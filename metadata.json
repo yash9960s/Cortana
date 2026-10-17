@@ -1,0 +1,10 @@
+{
+  "name": "Cortana Holographic AI Companion",
+  "description": "Cinematic sci-fi holographic AI companion inspired by Cortana, powered by Gemini with real-time reactive holographic avatar, voice dialogue, vision analysis, and sci-fi HUD.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
